@@ -1,1 +1,1 @@
-help manual
+help manual for git operations
